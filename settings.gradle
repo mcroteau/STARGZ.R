@@ -1,0 +1,3 @@
+rootProject.name = 'stargz.r'
+include "stargzr"
+
